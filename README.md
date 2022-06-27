@@ -4,7 +4,7 @@ SPD2022_TPS
 Nombre del grupo: Los Bepis
 
 Integrantes:
-*Samuel Correa (Dejó la materia)
+*Samuel Correa (Dejó la carrera)
 *Agustin Robertazzi
 *Bruno Pierdomenico
 *Federico Re
